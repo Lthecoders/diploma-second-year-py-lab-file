@@ -1,3 +1,4 @@
+# Name: Nikhil Rajendra Gaikwad
 
 # write simple python program to calculate equivalent registers connected in series and parallel. 
 # Accept values of R1, R2 and R3 from the users.
